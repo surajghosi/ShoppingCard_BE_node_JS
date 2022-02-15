@@ -1,0 +1,20 @@
+{
+    "DELETE_ITEM_MSG": "Item deleted successfully!!",
+    "PASS_ITEMID_MSG": "Please provide the Item ID",
+    "PASS_ITEMNAME_MSG": "Please provide the Item name",
+    "PASS_ITEMPRICE_MSG": "Please provide the Item price",
+    "PASS_ITEMIMG_MSG": "Please provide the Item Image",
+    "ITEM_ALREADY_EXIST_MSG": "Item already exist",
+    "ITEM_ADDED_SUCCESSFULLY_MSG": "Item added successfully",
+    "ITEM_UPDATED_SUCCESSFULLY_MSG": "Item updated successfully",
+    "LOGIN_SUCCESS_MSG": "Logged in Successfully",
+    "UNAUTHORIZED_MSG": "Unauthorized",
+    "FORBIDDEN_MSG": "Forbidden",
+    "SERVER_RUNNING_MESSAGE": "Server is running on port:",
+    "ITEM_NAME_LENGTH_EXCDEED_MSG": "Item name should not exceed more than 50",
+    "ITEM_PRICE_SHOULD_BE_NUMBER_MSG": "Item price should be a number only",
+    "ITEM_PRICE_LENGTH_EXCDEED_MSG": "Item price should not exceed more than 5 digit",
+    "ITEM_ADDED_TO_CART": "Item added to cart successfully",
+    "REMOVE_CART_ITEM_SUCCESS_MSG": "Item removed from cart successfully",
+    "CART_UPDATED_SUCCESSFULLY_MSG": "Cart updated successfully"
+}
