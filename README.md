@@ -1,2 +1,2 @@
-# ShoppingCard_BE_node_JS
+# ShoppingCard BE node JS
 Shopping Card BE in Node js
